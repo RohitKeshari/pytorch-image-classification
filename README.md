@@ -38,6 +38,14 @@ pip install torchvision
 
     In this tutorial we will be implementing the [ResNet](https://arxiv.org/abs/1512.03385) model. We'll show how to load your own dataset, using the [CUB200](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset as an example, and also how to use learning rate schedulers which dynamically alter the learning rate of your model whilst training. Specifially, we'll use the one cycle policy introduced in [this](https://arxiv.org/abs/1803.09820) paper and is now starting to be commonly used for training computer vision models.
 
+
+## Visualization
+
+- https://www.cs.ryerson.ca/~aharley/vis/conv/ 
+- https://github.com/poloclub/cnn-explainer [git] https://poloclub.github.io/cnn-explainer/ [demo] choose image: https://upload.wikimedia.org/wikipedia/commons/c/c6/Indian_actor_Amitabh_Bachchan.jpg
+- https://cs.stanford.edu/people/karpathy/convnetjs/ 
+- https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.92559&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
 ## References
 
 Here are some things I looked at while making these tutorials. Some of it may be out of date.
