@@ -20,9 +20,9 @@ pip install torchvision
 
 * 1 - [Multilayer Perceptron MNIST example](https://github.com/bentrevett/pytorch-image-classification/blob/master/1_mlp.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/1_mlp.ipynb)
 
-* 2 [CIFAR10 example][![Open In Colab](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/cifar10_tutorial.ipynb#scrollTo=tKBkubBRmC6_)
-
     This tutorial provides an introduction to PyTorch and TorchVision. We'll learn how to: load datasets, augment data, define a multilayer perceptron (MLP), train a model, view the outputs of our model, visualize the model's representations, and view the weights of the model. The experiments will be carried out on the MNIST dataset - a set of 28x28 handwritten grayscale digits.
+
+* 2 [CIFAR10 example]([https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/cifar10_tutorial.ipynb#scrollTo=tKBkubBRmC6_] [![Open In Colab](https://github.com/pytorch/tutorials/blob/gh-pages/_downloads/cifar10_tutorial.ipynb))
 
 * 3 - [LeNet](https://github.com/bentrevett/pytorch-image-classification/blob/master/2_lenet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/2_lenet.ipynb)
 
